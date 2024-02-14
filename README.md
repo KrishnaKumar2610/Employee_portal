@@ -27,9 +27,8 @@ PROCESS:
 2. Then it will display "activity_main" layout file and it will ask , "USER NAME" and "PASSWORD" ,In which We have to give "USER NAME as a krishna" and "PASSWORD as a 1234".
 3. If we enter wrong data in this, it will give "LOGIN FAILED" in pages itself.
 4. If we enter correct data , it will display "activity_emplists" layout file. In which , We can see team members details one by one.If we click the button of one team member , then it will display details of         that member of thier team.
-   for Ex
-   -------
-       If we Cilck first team member click button , then it will display "activity_last1" layout file.
+   
+      for example --> If we Cilck first team member click button , then it will display "activity_last1" layout file.
    
 
 FEATURES OF EMPLOYEE PORTAL APP
