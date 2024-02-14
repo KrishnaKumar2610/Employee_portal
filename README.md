@@ -1,10 +1,10 @@
                                     EMPLOYEE PORTAL APP
                       
-We can run this app in Android app Software.Because I have created this by using Android App software by using Java
+We can run this application in Android Studio app.Because I have created this application by using this software named Android Studio App and i build this code by using Java.
 
 Rules To see My created Files are given below..
 
-I.All main java files are Available in below this path
+I. All main java files are available in this path are mentioned below
 
 -----app/src/main/java/com/example/employeelogin----
 
@@ -13,7 +13,7 @@ I.All main java files are Available in below this path
     3.last1
     4.last2
     
-II. All main layouts files are available in below this path
+II. All main layouts files are available in this path are mentioned below
 
 ------app/src/main/res/layout----
 
